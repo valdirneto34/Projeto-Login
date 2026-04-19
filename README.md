@@ -67,6 +67,12 @@ Você pode testar a responsividade redimensionando a janela do seu navegador ou 
 
 ---
 
+## 📝 Licença
+
+Este projeto foi desenvolvido para fins educacionais. Sinta-se à vontade para utilizar e modificar o código conforme necessário.
+
+---
+
 ## 📖 Screenshots do Projeto
 
    <p align="center">
