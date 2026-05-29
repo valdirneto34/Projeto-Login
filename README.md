@@ -62,7 +62,7 @@ Você pode testar a responsividade redimensionando a janela do seu navegador ou 
 
 1. Clone este repositório em sua máquina:
    ```bash
-   git clone https://valdirneto34.github.io/Projeto-Login/
+   git clone https://github.com/valdirneto34/Projeto-Login
    ```
 
 ---
